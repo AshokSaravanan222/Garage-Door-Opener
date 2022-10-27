@@ -1,4 +1,4 @@
-# Garage-Door-Opener
+# Smart Garage Door Opener
 
 Author: Ashok Saravanan
 
