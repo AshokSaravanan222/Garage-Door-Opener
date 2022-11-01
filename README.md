@@ -20,10 +20,7 @@ I also added a tilt sensor to my garage door to indicate if the door is currenlt
 
 Here are some pictures of the ESP-8266 board:
 
-![image1](https://user-images.githubusercontent.com/90977640/199140750-2ed94975-9732-4aa6-a54d-b80ccec126e3.jpg | width=100)
-
-![image2](https://user-images.githubusercontent.com/90977640/199140847-e43badbd-c358-46a4-b807-e581f63562de.jpg | width=100)
-
+<img src="https://user-images.githubusercontent.com/90977640/199140750-2ed94975-9732-4aa6-a54d-b80ccec126e3.jpg" width=40% height=50%>       <img src="https://user-images.githubusercontent.com/90977640/199140847-e43badbd-c358-46a4-b807-e581f63562de.jpg" width=40% height=50%>
 
 Here is a working video of it in action( I am using Siri to control the homekit accessory): 
 
