@@ -20,7 +20,7 @@ I also added a tilt sensor to my garage door to indicate if the door is currenlt
 
 Here are some pictures of the ESP-8266 board:
 
-![image1](https://user-images.githubusercontent.com/90977640/199139469-cea2b2ca-a909-442e-8d1d-78028d4e21fe.png)
+![image1](https://user-images.githubusercontent.com/90977640/199140750-2ed94975-9732-4aa6-a54d-b80ccec126e3.jpg)
 
 ![image2](https://user-images.githubusercontent.com/90977640/199139488-29e9dad4-a014-496f-beed-19ccfb42cbf7.png)
 
