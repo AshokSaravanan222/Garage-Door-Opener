@@ -12,7 +12,7 @@ It is very detailed and is what allowed me to make my own implementation.
 
 # Hardware
 
-My implematntion for my garage door is a connection to a pin, that when is switched on, will open/close the garage door. I connected the ESP-8266 board to a realy that would open/close the garage door pin.
+My implementation for my garage door is a connection to a pin, that when is switched on, will open/close the garage door. I connected the ESP-8266 board to a realy that would open/close the garage door pin.
 
 I also added a tilt sensor to my garage door to indicate if the door is currenlty open or closed.
 
