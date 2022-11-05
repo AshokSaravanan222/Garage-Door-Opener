@@ -3,7 +3,10 @@
  * Using a relay to trigger the garage door opening and closing
  * Also using a tilt sensor to monitor if the garage door is open or not
  *
- *  Created on: 2021-10-18
+ *  Created on: 2020-05-15
+ *      Author: Mixiaoxiao (Wang Bin)
+ *
+ *  Modified on: 2021-10-18
  *      Author: Ashok Saravanan
  */
 
