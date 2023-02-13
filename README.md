@@ -27,7 +27,8 @@ Here are some pictures of the ESP-8266 board:
 
 https://user-images.githubusercontent.com/90977640/197659628-298456e7-c2d2-42a0-85e0-64d1feb24b7b.mp4
 
-
+# Updated Pictures
+<img src="https://user-images.githubusercontent.com/90977640/218559582-30f4dae3-42ba-47a8-b69a-13154dce00b0.PNG" width=37% height=25%> <img src="https://user-images.githubusercontent.com/90977640/218559557-ae0ae7f9-955d-43aa-b0c3-e2d22e9280dc.jpg" width=49% height=50%> 
 
 # Thanks
 [Mixiaoxiao](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266)
